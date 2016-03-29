@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CircleProgress">
+        <attr name="roundColor" format="color"/>
+        <attr name="centercolor" format="color"/>
+
+
+
+    </declare-styleable>
+
+    <declare-styleable name="TitleBar">
+
+        <attr name="mtitletext" format="string" />
+        <attr name="mtitleTextSize" format="dimension" />
+        <attr name="mtitleTextColor" format="color" />
+
+        <attr name="leftTextColor" format="color" />
+        <attr name="leftBackground" format="reference|color" />
+        <attr name="leftText" format="string" />
+
+        <attr name="rightTextColor" format="color" />
+        <attr name="rightBackground" format="reference|color" />
+        <attr name="rightText" format="string" />
+
+
+
+    </declare-styleable>
+
+
+</resources>
